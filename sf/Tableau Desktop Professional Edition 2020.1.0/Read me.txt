@@ -1,0 +1,5 @@
+- Install program. Close activation dialog at the end of install. Just click Exit when prompted.
+
+- Replace file in:
+
+C:\Program Files\Tableau\Tableau 2020.1\bin
